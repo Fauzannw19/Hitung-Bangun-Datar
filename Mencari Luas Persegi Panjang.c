@@ -1,5 +1,5 @@
 /*
-	program     : luas persegi panjang
+	program     	: luas persegi panjang
 	author  	: <3411221039><fauzan wicaksono>
 	kelas   	: b
 	date    	: 17 okt 2022
